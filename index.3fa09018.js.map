@@ -1,0 +1,1 @@
+{"mappings":"YACA,IADA,IACSA,EAAI,EAAGA,EADJ,GACaA,GAAK,EAC5BC,QAAQC,IAAI,GAAYC,OAFd,GAES,OAAOA,OAAFH,EAAE,OAFhB,GAE4BA,E","sources":["src/index.js"],"sourcesContent":["const max = 10;\nfor (let i = 0; i < max; i += 1) {\n  console.log(`${max} % ${i} = `, max % i);\n}\n"],"names":["$b8f9b7833fa37166$var$i","console","log","concat"],"version":3,"file":"index.3fa09018.js.map"}

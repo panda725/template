@@ -1,0 +1,1 @@
+{"mappings":"AACA,IAAK,IAAIA,EAAI,EAAGA,EADJ,GACaA,GAAK,EAC5BC,QAAQC,IAAI,QAAYF,OAFd,GAE4BA","sources":["src/index.js"],"sourcesContent":["const max = 10;\nfor (let i = 0; i < max; i += 1) {\n  console.log(`${max} % ${i} = `, max % i);\n}\n"],"names":["i","console","log"],"version":3,"file":"index.9174663e.js.map"}
